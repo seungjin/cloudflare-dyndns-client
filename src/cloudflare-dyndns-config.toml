@@ -1,0 +1,7 @@
+domain_name = "foo.bar.com"
+api_token = "cloudflare api token here"
+zone_identifier = "your zone identifier"
+ttl = 60
+comment = "Updated by cloudflare dyndns config"
+
+
